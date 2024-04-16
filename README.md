@@ -1,6 +1,8 @@
 # Splash Screen in C++
 
-This C++ program displays a splash screen with a custom design using ANSI escape codes for colors and sleeps for a specified duration to show the splash screen character by character.
+![Splash Screen](media/preview.png?raw=true "Splash Screen")
+
+This C++ program displays a splash screen with a custom design using ANSI escape codes for colors and sleeps for a specified duration to show the splash screen character by character, and it's responsive!
 
 ## Features
 
@@ -17,11 +19,11 @@ This C++ program displays a splash screen with a custom design using ANSI escape
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/splash-screen-cpp.git
+    git clone https://github.com/simonbermudez/simon-bermudez-splash-cpp
     ```
 2. **Navigate to the project directory**:
     ```bash
-    cd splash-screen-cpp
+    cd simon-bermudez-splash-cpp
     ```
 3. **Compile the program**:
     ```bash
